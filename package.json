@@ -1,0 +1,36 @@
+{
+  "name": "central-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-dev": "npx webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.0.0",
+    "cors": "^2.8.5",
+    "date-fns": "^1.30.1",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "morgan": "^1.9.1",
+    "node-fetch": "^2.3.0",
+    "popper.js": "^1.14.7"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.4",
+    "webpack-cli": "^3.2.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r7k8iz9/centralcode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/r7k8iz9/centralcode/issues"
+  },
+  "homepage": "https://github.com/r7k8iz9/centralcode#readme",
+  "description": ""
+}
